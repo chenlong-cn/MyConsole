@@ -8,7 +8,7 @@ namespace MyConsole
     {
         static void Main(string[] args)
         {
-            MyGeneric<string> test = new MyGeneric<string>("这是自定义泛型");
+            MyGeneric<string> test = new MyGeneric<string>("这是自1111111111定义泛型");
 
             Console.WriteLine("Hello World!");
 
