@@ -29,6 +29,11 @@ namespace MyConsole
         {
             Console.WriteLine(t.ToString());
         }
+
+        public static void Test2()
+        { 
+        
+        }
     }
 
 
